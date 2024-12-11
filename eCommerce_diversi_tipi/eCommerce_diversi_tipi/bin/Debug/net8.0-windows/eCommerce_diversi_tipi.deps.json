@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "eCommerce_diversi_tipi/1.0.0": {
+        "runtime": {
+          "eCommerce_diversi_tipi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eCommerce_diversi_tipi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

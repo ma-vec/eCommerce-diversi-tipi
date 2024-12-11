@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F12CD43-EE84-4260-A2E3-D91A430D33E2}|eCommerce_diversi_tipi\\eCommerce_diversi_tipi.csproj|c:\\users\\vecchi.21208\\ecommerce-diversi-tipi\\ecommerce_diversi_tipi\\ecommerce_diversi_tipi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F12CD43-EE84-4260-A2E3-D91A430D33E2}|eCommerce_diversi_tipi\\eCommerce_diversi_tipi.csproj|solutionrelative:ecommerce_diversi_tipi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F12CD43-EE84-4260-A2E3-D91A430D33E2}|eCommerce_diversi_tipi\\eCommerce_diversi_tipi.csproj|c:\\users\\vecchi.21208\\ecommerce-diversi-tipi\\ecommerce_diversi_tipi\\ecommerce_diversi_tipi\\prodottoelettronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F12CD43-EE84-4260-A2E3-D91A430D33E2}|eCommerce_diversi_tipi\\eCommerce_diversi_tipi.csproj|solutionrelative:ecommerce_diversi_tipi\\prodottoelettronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F12CD43-EE84-4260-A2E3-D91A430D33E2}|eCommerce_diversi_tipi\\eCommerce_diversi_tipi.csproj|c:\\users\\vecchi.21208\\ecommerce-diversi-tipi\\ecommerce_diversi_tipi\\ecommerce_diversi_tipi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F12CD43-EE84-4260-A2E3-D91A430D33E2}|eCommerce_diversi_tipi\\eCommerce_diversi_tipi.csproj|solutionrelative:ecommerce_diversi_tipi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F12CD43-EE84-4260-A2E3-D91A430D33E2}|eCommerce_diversi_tipi\\eCommerce_diversi_tipi.csproj|c:\\users\\vecchi.21208\\ecommerce-diversi-tipi\\ecommerce_diversi_tipi\\ecommerce_diversi_tipi\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F12CD43-EE84-4260-A2E3-D91A430D33E2}|eCommerce_diversi_tipi\\eCommerce_diversi_tipi.csproj|solutionrelative:ecommerce_diversi_tipi\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F12CD43-EE84-4260-A2E3-D91A430D33E2}|eCommerce_diversi_tipi\\eCommerce_diversi_tipi.csproj|c:\\users\\vecchi.21208\\ecommerce-diversi-tipi\\ecommerce_diversi_tipi\\ecommerce_diversi_tipi\\prodottoalimentare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F12CD43-EE84-4260-A2E3-D91A430D33E2}|eCommerce_diversi_tipi\\eCommerce_diversi_tipi.csproj|solutionrelative:ecommerce_diversi_tipi\\prodottoalimentare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F12CD43-EE84-4260-A2E3-D91A430D33E2}|eCommerce_diversi_tipi\\eCommerce_diversi_tipi.csproj|c:\\users\\vecchi.21208\\ecommerce-diversi-tipi\\ecommerce_diversi_tipi\\ecommerce_diversi_tipi\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F12CD43-EE84-4260-A2E3-D91A430D33E2}|eCommerce_diversi_tipi\\eCommerce_diversi_tipi.csproj|solutionrelative:ecommerce_diversi_tipi\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdottoElettronico.cs",
+              "DocumentMoniker": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\eCommerce_diversi_tipi\\ProdottoElettronico.cs",
+              "RelativeDocumentMoniker": "eCommerce_diversi_tipi\\ProdottoElettronico.cs",
+              "ToolTip": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\eCommerce_diversi_tipi\\ProdottoElettronico.cs",
+              "RelativeToolTip": "eCommerce_diversi_tipi\\ProdottoElettronico.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:34:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\eCommerce_diversi_tipi\\Form1.cs",
+              "RelativeDocumentMoniker": "eCommerce_diversi_tipi\\Form1.cs",
+              "ToolTip": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\eCommerce_diversi_tipi\\Form1.cs",
+              "RelativeToolTip": "eCommerce_diversi_tipi\\Form1.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAQwEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:38:59.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdottoAlimentare.cs",
+              "DocumentMoniker": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\eCommerce_diversi_tipi\\ProdottoAlimentare.cs",
+              "RelativeDocumentMoniker": "eCommerce_diversi_tipi\\ProdottoAlimentare.cs",
+              "ToolTip": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\eCommerce_diversi_tipi\\ProdottoAlimentare.cs",
+              "RelativeToolTip": "eCommerce_diversi_tipi\\ProdottoAlimentare.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:17:28.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\eCommerce_diversi_tipi\\Prodotto.cs",
+              "RelativeDocumentMoniker": "eCommerce_diversi_tipi\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\eCommerce_diversi_tipi\\Prodotto.cs",
+              "RelativeToolTip": "eCommerce_diversi_tipi\\Prodotto.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:12:09.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Carrello.cs",
+              "DocumentMoniker": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\eCommerce_diversi_tipi\\Carrello.cs",
+              "RelativeDocumentMoniker": "eCommerce_diversi_tipi\\Carrello.cs",
+              "ToolTip": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\eCommerce_diversi_tipi\\Carrello.cs",
+              "RelativeToolTip": "eCommerce_diversi_tipi\\Carrello.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:10:58.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\eCommerce_diversi_tipi\\Form1.cs",
+              "RelativeDocumentMoniker": "eCommerce_diversi_tipi\\Form1.cs",
+              "ToolTip": "C:\\Users\\vecchi.21208\\eCommerce-diversi-tipi\\eCommerce_diversi_tipi\\eCommerce_diversi_tipi\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "eCommerce_diversi_tipi\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:10:12.63Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
